@@ -1,0 +1,1 @@
+//LIST = struktur data berurutan yang dapat menyimpan kumpulan nilai data
