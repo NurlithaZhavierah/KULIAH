@@ -32,4 +32,6 @@ print("bb saya $pecahan kg");
 print("angka fav saya $angka");
 print("saya $vira");
 print("mahasiswa ini statusnya $isActive");
+
+//set kumplan elemen yang tidak berurutan 
 }

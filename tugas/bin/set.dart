@@ -10,8 +10,9 @@ print(angka.remove(1)); //hapus data
 print(angka.contains(1)); //mengecek data
 angka.clear(); //bersihkan
 print(angka); //panggil angka
+
 angka.toList();
-print(angka.runtimeType);
+print(angka.runtimeType); //List pake [] kalo SET {}
 print(angka.toList());
 }
 //set properti = lengh
