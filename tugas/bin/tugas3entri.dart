@@ -20,7 +20,6 @@ void main() {
       "angkatan": angkatan
     });
   }
-  print("\n=== Pencarian Data Mahasiswa Informatika ===");
   stdout.write("Masukkan nama mahasiswa yang ingin dicari: ");
   String? cari = stdin.readLineSync();
   bool ditemukan = false;
